@@ -1,5 +1,5 @@
 # student-portal
-A simple java application written in PHP language with MVC pattern and FULL-AJAX technique, with complete strategy of error handling , alert messages using sweet alert laibary.
+A simple PHP application written in PHP language with MVC pattern and FULL-AJAX technique, with complete strategy of error handling , alert messages using sweet alert laibary.
                                                                            
 1.The app allows stuednt to sign in or creat their new account,and stored the password in md5 format for security issues.                 
 2.The app show courses of current semester and allow students to add courses to thier semester plane.                                     
